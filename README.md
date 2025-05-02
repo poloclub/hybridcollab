@@ -2,6 +2,8 @@
 
 Unifying In-Person and Remote Collaboration for Cardiovascular Surgical Planning in Mobile Augmented Reality
 
+[![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
+
 ![crown-jewel](https://github.com/user-attachments/assets/0e37fbe5-b6fb-468c-ba3b-a8e38b848297)
 
 ## What is HybridCollab?
