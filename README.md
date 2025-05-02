@@ -18,11 +18,11 @@ Watch a video demo of HybridCollab [here](https://youtu.be/hElqJYDuvLM).
 
 ## Project Setup
 
-To use HybridCollab, you will need to have a `obj` version of an AR heart model. Follow the instructions to setup the project.
+To use HybridCollab, you will need to have a `.obj` version of an AR heart model. Follow the instructions to setup the project.
 
 1. Clone the repo and open the `HybridCollab.xcodeproj` file in [`Xcode`](https://developer.apple.com/xcode/).
-2. Add the heart model to the project:
-  a. Ensure the `obj` file is named as `heart_model.obj`
+2. Add the heart model to the project: \
+  a. Ensure the `obj` file is named as `heart_model.obj` \
   b. Drag the file into the project directory in Xcode, under the project and the `HybridCollab` group.
 3. Run the app on a physical device. (Note: you may need to change the bundle id and follow the instructions [here](https://developer.apple.com/documentation/GameKit/enabling-and-configuring-game-center) using a paid Apple Developer Account).
 
