@@ -74,7 +74,7 @@
 		B76AA5BF2BA2A09B008AA34B = {
 			isa = PBXGroup;
 			children = (
-				B76AA5CA2BA2A09B008AA34B /* ARCollab */,
+				B76AA5CA2BA2A09B008AA34B /* HybridCollab */,
 				B76AA5C92BA2A09B008AA34B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -87,7 +87,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		B76AA5CA2BA2A09B008AA34B /* ARCollab */ = {
+		B76AA5CA2BA2A09B008AA34B /* HybridCollab */ = {
 			isa = PBXGroup;
 			children = (
 				B72EA59A2D56BE610013070E /* ARCollab.entitlements */,
@@ -100,7 +100,7 @@
 				B76AA5CF2BA2A09D008AA34B /* Assets.xcassets */,
 				B76AA5D12BA2A09D008AA34B /* Preview Content */,
 			);
-			path = ARCollab;
+			path = HybridCollab;
 			sourceTree = "<group>";
 		};
 		B76AA5D12BA2A09D008AA34B /* Preview Content */ = {
@@ -387,14 +387,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = ARCollab/ARCollab.entitlements;
+				CODE_SIGN_ENTITLEMENTS = HybridCollab/ARCollab.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 5;
 				DEVELOPMENT_ASSET_PATHS = "";
 				DEVELOPMENT_TEAM = 6MTCHYNPAT;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = ARCollab/Info.plist;
+				INFOPLIST_FILE = HybridCollab/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = HybridCollab;
 				INFOPLIST_KEY_NSCameraUsageDescription = "ARCollab requires camera access.";
 				INFOPLIST_KEY_NSLocalNetworkUsageDescription = "ARCollab needs to find nearby devices on your local network";
@@ -424,14 +424,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = ARCollab/ARCollab.entitlements;
+				CODE_SIGN_ENTITLEMENTS = HybridCollab/ARCollab.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 5;
 				DEVELOPMENT_ASSET_PATHS = "";
 				DEVELOPMENT_TEAM = 6MTCHYNPAT;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = ARCollab/Info.plist;
+				INFOPLIST_FILE = HybridCollab/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = HybridCollab;
 				INFOPLIST_KEY_NSCameraUsageDescription = "ARCollab requires camera access.";
 				INFOPLIST_KEY_NSLocalNetworkUsageDescription = "ARCollab needs to find nearby devices on your local network";
